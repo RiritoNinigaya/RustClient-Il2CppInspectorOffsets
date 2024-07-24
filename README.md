@@ -1,0 +1,2 @@
+# RustClient-Il2CppInspectorOffsets
+RustClient-Il2CppInspectorOffsets by RiritoNinigaya
